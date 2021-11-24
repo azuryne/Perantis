@@ -1,0 +1,170 @@
+{
+    "images": [
+        {
+            "height": 416,
+            "width": 624,
+            "id": 1,
+            "file_name": "json_file_b/json_file3/img_3.png"
+        }
+    ],
+    "categories": [
+        {
+            "supercategory": "Inamul",
+            "id": 1,
+            "name": "Inamul"
+        },
+        {
+            "supercategory": "DrGoke",
+            "id": 2,
+            "name": "DrGoke"
+        },
+        {
+            "supercategory": "Azureen",
+            "id": 3,
+            "name": "Azureen"
+        },
+        {
+            "supercategory": "Afiq",
+            "id": 4,
+            "name": "Afiq"
+        },
+        {
+            "supercategory": "Nu'man",
+            "id": 5,
+            "name": "Nu'man"
+        },
+        {
+            "supercategory": "Mahmuda",
+            "id": 6,
+            "name": "Mahmuda"
+        }
+    ],
+    "annotations": [
+        {
+            "iscrowd": 0,
+            "image_id": 1,
+            "bbox": [
+                69.0,
+                51.0,
+                140.0,
+                97.0
+            ],
+            "segmentation": [
+                [
+                    69.68421052631578,
+                    51.4736842105263,
+                    209.68421052631578,
+                    148.31578947368416
+                ]
+            ],
+            "category_id": 1,
+            "id": 1,
+            "area": 259584
+        },
+        {
+            "iscrowd": 0,
+            "image_id": 1,
+            "bbox": [
+                235.0,
+                54.0,
+                150.0,
+                93.0
+            ],
+            "segmentation": [
+                [
+                    235.99999999999997,
+                    54.63157894736841,
+                    385.4736842105263,
+                    147.26315789473682
+                ]
+            ],
+            "category_id": 2,
+            "id": 2,
+            "area": 259584
+        },
+        {
+            "iscrowd": 0,
+            "image_id": 1,
+            "bbox": [
+                430.0,
+                40.0,
+                157.0,
+                108.0
+            ],
+            "segmentation": [
+                [
+                    430.7368421052631,
+                    40.94736842105263,
+                    587.578947368421,
+                    148.31578947368416
+                ]
+            ],
+            "category_id": 3,
+            "id": 3,
+            "area": 259584
+        },
+        {
+            "iscrowd": 0,
+            "image_id": 1,
+            "bbox": [
+                47.0,
+                167.0,
+                155.0,
+                92.0
+            ],
+            "segmentation": [
+                [
+                    47.57894736842105,
+                    167.26315789473682,
+                    202.3157894736842,
+                    259.89473684210526
+                ]
+            ],
+            "category_id": 4,
+            "id": 4,
+            "area": 259584
+        },
+        {
+            "iscrowd": 0,
+            "image_id": 1,
+            "bbox": [
+                239.0,
+                153.0,
+                157.0,
+                105.0
+            ],
+            "segmentation": [
+                [
+                    239.15789473684208,
+                    153.57894736842104,
+                    396.0,
+                    258.84210526315786
+                ]
+            ],
+            "category_id": 5,
+            "id": 5,
+            "area": 259584
+        },
+        {
+            "iscrowd": 0,
+            "image_id": 1,
+            "bbox": [
+                438.0,
+                160.0,
+                162.0,
+                98.0
+            ],
+            "segmentation": [
+                [
+                    438.1052631578947,
+                    160.9473684210526,
+                    600.2105263157895,
+                    258.84210526315786
+                ]
+            ],
+            "category_id": 6,
+            "id": 6,
+            "area": 259584
+        }
+    ]
+}
